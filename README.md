@@ -1,14 +1,17 @@
 # ECE-14-332-452
-**Team:**
-| Name               | Email       | 
-| ------------------ | ----------- |
-| Shepar Sohail      | ???@???.com |
-| Raphaelle Marcial  | rm1096@scarletmail.rutgers.edu |
-| Ama Freeman        | ???@???.com |
-| Fahd Humayun       | fahdhumayun@gmail.com |
-| Nathan Morgenstern | ncmorgenstern@gmail.com | 
-| Alex Dewey         | ???@???.com |
 
+### Team:
+
+| Name               | Email                          | Subgroup |
+| ------------------ | ------------------------------ | -------- |
+| Shepar Sohail      | ???@???.com                    |          |
+| Raphaelle Marcial  | rm1096@scarletmail.rutgers.edu |          |
+| Ama Freeman        | ???@???.com                    |          |
+| Fahd Humayun       | fahdhumayun@gmail.com          |          |
+| Nathan Morgenstern | ncmorgenstern@gmail.com        |          |
+| Alex Dewey         | ???@???.com                    |          |
+
+[Unlimited Private Repositories](https://education.github.com/pack):thumbsup:
  
 ## USING GIT
 ## download the current repository
