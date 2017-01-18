@@ -1,13 +1,13 @@
 # ECE-14-332-452
 **Team:**
-Name | Email 
---- | ---
- Shepar Sohail | ???@???.com
- Raphaelle Marcial | rm1096@scarletmail.rutgers.edu
- Ama Freeman | ???@???.com
- Fahd Humayun | fahdhumayun@gmail.com
- Nathan Morgenstern | ncmorgenstern@gmail.com 
- Alex Dewey | ???@???.com
+| Name               | Email       | 
+| ------------------ | ----------- |
+| Shepar Sohail      | ???@???.com |
+| Raphaelle Marcial  | rm1096@scarletmail.rutgers.edu |
+| Ama Freeman        | ???@???.com |
+| Fahd Humayun       | fahdhumayun@gmail.com |
+| Nathan Morgenstern | ncmorgenstern@gmail.com | 
+| Alex Dewey         | ???@???.com |
 
  
 ## USING GIT
@@ -78,8 +78,10 @@ git diff <source_branch> <target_branch>
 ```
 
 thanks Roger Dudler for the [git-guide](http://rogerdudler.github.io/git-guide/)
+
 [Git Video Tutorial](https://www.youtube.com/watch?v=r63f51ce84A)
 
 ## MARKDOWN CHEAT SHEET 
 Markdown is what's typically used for README or other similiar documents
+
 [Helpful markdown reference](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) :octocat:
