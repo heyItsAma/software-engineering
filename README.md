@@ -1,15 +1,25 @@
 # ECE-14-332-452
+**Team:**
+Name | Email 
+--- | ---
+ Shepar Sohail | ???@???.com
+ Raphaelle Marcial | rm1096@scarletmail.rutgers.edu
+ Ama Freeman | ???@???.com
+ Fahd Humayun | fahdhumayun@gmail.com
+ Nathan Morgenstern | ncmorgenstern@gmail.com 
+ Alex Dewey | ???@???.com
 
+ 
 ## USING GIT
-### download the current repository
+## download the current repository
 create a directory and cd into it. Afterwards you can clone the repository into your working directory.
 ```
 mkdir workspace
 cd workspace
-git clone https://github.com/ncm1/ECE-14-332-452
+git clone https://github.com/ncm1/software-engineering
 ```
 
-### add and commit
+## add and commit
 You can propose changes (add it to the Index) using
 ```
 git add <filename>   
@@ -21,13 +31,13 @@ git commit -m "Commit message"
 ```
 Now the file is committed to the HEAD, but not in your remote repository yet.
 
-### pushing changes
+## pushing changes
 
 Your changes are now in the HEAD of your local working copy. To send those changes to your remote repository, execute 
 ```
 git push origin master
 ```
-### Branching
+## Branching
 Branches are used to develop features isolated from each other. The master branch is the "default" branch when you create a repository. Use other branches for development and merge them back to the master branch upon completion.
 
 reate a new branch named "feature_x" and switch to it using
@@ -47,7 +57,7 @@ a branch is not available to others unless you push the branch to your remote re
 git push origin <branch>
 ```
 
-### Update and merge
+## Update and merge
 to update your local repository to the newest commit, execute 
 ```
 git pull
@@ -68,7 +78,8 @@ git diff <source_branch> <target_branch>
 ```
 
 thanks Roger Dudler for the [git-guide](http://rogerdudler.github.io/git-guide/)
+[Git Video Tutorial](https://www.youtube.com/watch?v=r63f51ce84A)
 
 ## MARKDOWN CHEAT SHEET 
-Markdown is what's typically used for README.md pages
+Markdown is what's typically used for README or other similiar documents
 [Helpful markdown reference](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) :octocat:
