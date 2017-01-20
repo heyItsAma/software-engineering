@@ -6,7 +6,7 @@
 | ------------------ | ------------------------------ | -------- |
 | Shepar Sohail      | ???@???.com                    |          |
 | Raphaelle Marcial  | rm1096@scarletmail.rutgers.edu |          |
-| Ama Freeman        | ???@???.com                    |          |
+| Ama Freeman        | ama.freeman96@gmail.com        |          |
 | Fahd Humayun       | fahdhumayun@gmail.com          |          |
 | Nathan Morgenstern | ncmorgenstern@gmail.com        |          |
 | Alex Dewey         | ???@???.com                    |          |
